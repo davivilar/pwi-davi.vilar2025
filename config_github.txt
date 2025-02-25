@@ -7,11 +7,16 @@ git config --global --unset-all user.name
 
 echo --- Configurando Usuario GitHUB ----
 
-git config --global user.name "Davi Vilar"
-git config --global user.email davivilar@gmail.com
+git config --global user.name "Legendys"
+git config --global user.email juca_2307@hotmail.com
 echo --- Mostrando a configuração atual do Github no computador
 git config --list
 echo --- Fim ---
-echo --- Joao Lindo  Saudades ---
+
+echo Comando para enviar para internet
+echo git add
+echo comando para comentario para as alteraçoes
+echo git commit -m "comentario"
+echo git push .
 
 pause
